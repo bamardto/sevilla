@@ -1,0 +1,25 @@
+.text-principal {
+    color: #1dcfbda0 !important;
+}	
+.button-nav {
+    background-color: #1dcfbda0 !important;
+}	
+.img-footer {
+    width: 100px;
+}
+.img-footer-cont {
+    background-color: white;
+    padding: 20px;
+    width: 140px;
+    border-radius: 50%;
+}
+.text-white {
+    color: white !important;
+    font-weight: 700;
+}
+.img-icon-footer {
+    width: 20px;
+}
+.img-burger {
+    width: 30px;
+}

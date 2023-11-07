@@ -1224,7 +1224,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 }
 #Top_bar #logo {
 	display: block;
-	height: 60px;
+	height: 100px;
 	line-height: 60px;
 	padding: 15px 0px;
 }
@@ -6551,7 +6551,8 @@ html, body {
 		line-height: 60px!important;
 	}
 	.mobile-sticky #Top_bar.is-sticky a.responsive-menu-toggle {
-		top: 30px!important;
+		top: 15px!important;
+		right: 15px !important;
 	}
 	.mobile-sticky #Top_bar.is-sticky .top_bar_right {
 		display: none;

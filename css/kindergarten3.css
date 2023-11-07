@@ -956,7 +956,8 @@ a.action_button {
 		margin: 0
 	}
 	#Top_bar a.responsive-menu-toggle {
-		display: block
+		display: block;
+		top: 20px;
 	}
 	#Top_bar #menu>ul {
 		width: 100%;
@@ -2154,7 +2155,7 @@ h6 {
 	padding: 25px 0;
 }
 .logo-overflow #Top_bar:not(.is-sticky) .logo {
-	height: 110px;
+	height: 80px;
 }
 #Top_bar .menu>li>a {
 	padding: 25px 0;
@@ -2179,7 +2180,7 @@ h6 {
 }
 @media only screen and (max-width: 767px) {
 	#Top_bar a.responsive-menu-toggle {
-		top: 40px;
+		top: 30px;
 	}
 	.mobile-header-mini #Top_bar #logo {
 		height: 50px !important;

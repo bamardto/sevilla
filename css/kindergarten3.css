@@ -1408,8 +1408,8 @@ a.action_button {
 	background: transparent;
 }
 #Side_slide {
-	background-color: #191919;
-	border-color: #191919;
+	background-color: #434242;
+	border-color:  #434242;
 }
 #Side_slide, #Side_slide .search-wrapper input.field, #Side_slide a:not(.action_button), #Side_slide #menu ul li.submenu .menu-toggle {
 	color: #A6A6A6;

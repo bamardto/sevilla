@@ -15759,7 +15759,8 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 	background-image: none;
 }
 .header-transparent.ab-hide #Top_bar {
-	top: 0
+	top: 0;
+	max-height: 110px !important;
 }
 .header-transparent #Top_bar.is-sticky .menu_wrapper .menu>li>a {
 	padding: 0;

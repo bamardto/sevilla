@@ -23,3 +23,37 @@
 .img-burger {
     width: 30px;
 }
+.gallery {
+    margin-bottom: 50px;
+}
+
+.p-grupos {
+    margin: 30px 0;
+}	
+.current-menu-item a span{
+    color: #1dcfbda0 !important;
+    font-weight: 700;
+}
+.w-100 {
+    width: 100px !important;
+}
+.info-form {
+    font-size: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .mb-100 {
+        margin-bottom: 100px !important;
+    }
+    .img-footer-cont {
+       margin: auto;
+    }
+    .box-index {
+        margin: 10px 0 !important;
+    }
+    
+}
+@media screen and (min-width: 768px) {
+    
+    
+}
